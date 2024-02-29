@@ -11,4 +11,4 @@ I'm Gabriel! I'm currently working as a fullstack developer, passionate about bu
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Get in Touch 📫
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gabrielattano/) for collaboration opportunities or inquiries.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gabriel-alberto-de-sa/) for collaboration opportunities or inquiries.
